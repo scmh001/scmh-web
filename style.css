@@ -1,4 +1,24 @@
+
 body {
     background: grey;
     text-align: center;
+    h1 {
+      text-shadow: 2px 2px;
+    }
+    h2 {
+      color: coral;
+      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    }
+    iframe {
+      border-radius: 8px;
+    }
+    
   }
+  nav {
+    background: rgb(131, 113, 113);
+  }
+  nav {
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
